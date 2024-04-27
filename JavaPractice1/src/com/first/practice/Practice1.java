@@ -4,12 +4,6 @@ import java.util.Scanner;
 
 public class Practice1 
 {
-
-	
-		
-
-			
-				
 				//Print age eligibility starts
 					
 				/*public static void main(String args[]) {
@@ -69,7 +63,7 @@ public class Practice1
 					System.out.println("You are eligible to 3K run");
 				}
 				else {
-					System.out.println("You might not have Right Age or something");
+					System.out.println("You might not  from TCS or not have Right Age or something else");
 				}
 				}
 				
